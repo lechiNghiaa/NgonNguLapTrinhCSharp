@@ -1,0 +1,15 @@
+D:\C#\LAB1\BAI9\bai9\bai9\bin\Debug\net10.0\bai9.exe
+D:\C#\LAB1\BAI9\bai9\bai9\bin\Debug\net10.0\bai9.deps.json
+D:\C#\LAB1\BAI9\bai9\bai9\bin\Debug\net10.0\bai9.runtimeconfig.json
+D:\C#\LAB1\BAI9\bai9\bai9\bin\Debug\net10.0\bai9.dll
+D:\C#\LAB1\BAI9\bai9\bai9\bin\Debug\net10.0\bai9.pdb
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.AssemblyInfoInputs.cache
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.AssemblyInfo.cs
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.csproj.CoreCompileInputs.cache
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.dll
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\refint\bai9.dll
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.pdb
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.genruntimeconfig.cache
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\ref\bai9.dll
+D:\C#\LAB1\BAI9\bai9\bai9\obj\Debug\net10.0\bai9.csproj.Up2Date
