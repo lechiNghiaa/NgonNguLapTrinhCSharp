@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\LAB1\\BAI6\\bai6\\bai6\\bai6.csproj": {}
+    "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI6\\bai6\\bai6\\bai6.csproj": {}
   },
   "projects": {
-    "D:\\C#\\LAB1\\BAI6\\bai6\\bai6\\bai6.csproj": {
+    "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI6\\bai6\\bai6\\bai6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\LAB1\\BAI6\\bai6\\bai6\\bai6.csproj",
+        "projectUniqueName": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI6\\bai6\\bai6\\bai6.csproj",
         "projectName": "bai6",
-        "projectPath": "D:\\C#\\LAB1\\BAI6\\bai6\\bai6\\bai6.csproj",
+        "projectPath": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI6\\bai6\\bai6\\bai6.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\LAB1\\BAI6\\bai6\\bai6\\obj\\",
+        "outputPath": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI6\\bai6\\bai6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

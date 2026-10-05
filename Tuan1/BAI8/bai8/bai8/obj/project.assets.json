@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\LAB1\\BAI8\\bai8\\bai8\\bai8.csproj",
+      "projectUniqueName": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI8\\bai8\\bai8\\bai8.csproj",
       "projectName": "bai8",
-      "projectPath": "D:\\C#\\LAB1\\BAI8\\bai8\\bai8\\bai8.csproj",
+      "projectPath": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI8\\bai8\\bai8\\bai8.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\LAB1\\BAI8\\bai8\\bai8\\obj\\",
+      "outputPath": "D:\\NgonNguLapTrinhCSharp\\BaiTapCSharp\\Tuan1\\BAI8\\bai8\\bai8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
