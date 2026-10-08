@@ -1,0 +1,17 @@
+D:\C#\LAB4\4C\bai03_BTTL\bin\Debug\net9.0-windows\bai03_BTTL.exe
+D:\C#\LAB4\4C\bai03_BTTL\bin\Debug\net9.0-windows\bai03_BTTL.deps.json
+D:\C#\LAB4\4C\bai03_BTTL\bin\Debug\net9.0-windows\bai03_BTTL.runtimeconfig.json
+D:\C#\LAB4\4C\bai03_BTTL\bin\Debug\net9.0-windows\bai03_BTTL.dll
+D:\C#\LAB4\4C\bai03_BTTL\bin\Debug\net9.0-windows\bai03_BTTL.pdb
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.Form1.resources
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.csproj.GenerateResource.cache
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.AssemblyInfoInputs.cache
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.AssemblyInfo.cs
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.csproj.CoreCompileInputs.cache
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.dll
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\refint\bai03_BTTL.dll
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.pdb
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.genruntimeconfig.cache
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\ref\bai03_BTTL.dll
+D:\C#\LAB4\4C\bai03_BTTL\obj\Debug\net9.0-windows\bai03_BTTL.csproj.Up2Date

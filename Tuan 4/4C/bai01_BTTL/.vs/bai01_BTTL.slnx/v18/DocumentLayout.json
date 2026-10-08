@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|d:\\c#\\lab4\\4c\\bai01_bttl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40527E4A-AA94-4E87-8A9C-4EC46F345D53}|bai01_BTTL.csproj|D:\\C#\\LAB4\\4C\\bai01_BTTL\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40527E4A-AA94-4E87-8A9C-4EC46F345D53}|bai01_BTTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|d:\\c#\\lab4\\4c\\bai01_bttl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|d:\\c#\\lab4\\4c\\bai01_bttl\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE928D8-ABFC-A442-97F7-A539C3B43474}|bai01_BTTL.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:34:33.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAswK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:34:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAkwOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:33:51.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\LAB4\\4C\\bai01_BTTL\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:33:35.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
